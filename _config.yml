@@ -5,8 +5,8 @@
 # Identity
 # --------
 
-title: Double Deep Reinforcement Learning 
-description:
+title: Reinforcement Learning 
+description: Double Deep Q-Learning
 
 logo:  "/assets/img/logo.png"
 cover: "/assets/img/cover.png"
@@ -14,7 +14,7 @@ cover: "/assets/img/cover.png"
 baseurl:
 url:
 
-owner:
+owner: CS598 UIUC
 rights: All Right Reserved
 
 
