@@ -5,9 +5,11 @@ feature:
   posts:
     latest: 1
     list:
+      - "/2016/03/19/markdown-examples"
   projects:
     latest: 0
     list:
+      - "/projects/polar"
 ---
 
 {% comment %}

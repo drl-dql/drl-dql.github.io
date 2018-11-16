@@ -5,16 +5,16 @@
 # Identity
 # --------
 
-title:
-description:
+title:       Polar
+description: White-Clean Jekyll Theme
 
 logo:  "/assets/img/logo.png"
 cover: "/assets/img/cover.png"
 
-baseurl:
-url:
+baseurl: "/polar"
+url:     "https://neizod.github.io"
 
-owner:
+owner:  neizod
 rights: All Right Reserved
 
 
@@ -41,7 +41,7 @@ disqus:
 # --------------
 
 timezone: Asia/Bangkok
-paginate: 10
+paginate: 3
 mathjax:  true
 
 
